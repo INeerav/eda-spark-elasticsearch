@@ -1,4 +1,4 @@
-# 2024-CA675-FullStackDataAnalytics
+# Full Stack DataAnalytics
 This project was created with the sole purpose of wrapping up the second assignment of CA675 and will be maintained by me, Nirav Patel and Vishu Priya Gandewar :)
 
 ## Getting started
