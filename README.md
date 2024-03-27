@@ -1,5 +1,5 @@
-# Full Stack DataAnalytics
-This project was created with the sole purpose of wrapping up the second assignment of CA675 and will be maintained by me, Nirav Patel and Vishu Priya Gandewar :)
+# Data Analytics Dashboard
+This is to create the data analytics dashboard using elasticsearch, performing EDA thorugh pyspark, hadoop, hive and AWS glue ETL
 
 ## Getting started
 Let me clearly define the yardsticks, for me not to deviate much;
@@ -9,8 +9,8 @@ Let me clearly define the yardsticks, for me not to deviate much;
     - Map reduce, spark, storm, hive, pig, flink etc.
 
 ## Project status
-Submission deadline date : 19th Dec, 2023 at 11:59 PM
-Current Status : Completed, submitted
+Current status : web interface, using fastAPI (yet to be done)
+for more info on the steps, please follow steps.pdf
 
 ## Tech stack 
 1. Cloud service provider : AWS, GCP
