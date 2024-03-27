@@ -1,0 +1,38 @@
+{
+    "known_artists": {
+      "mappings": {        
+        "properties": {
+          "ambiguous_artist": {
+            "type": "keyword"
+          },
+          "artist_lastfm": {
+            "type": "keyword"
+          },
+          "artist_mb": {
+            "type": "keyword"
+          },
+          "country_lastfm": {
+            "type": "keyword"
+          },
+          "country_mb": {
+            "type": "keyword"
+          },
+          "listeners_lastfm": {
+            "type": "long"
+          },
+          "mbid": {
+            "type": "keyword"
+          },
+          "scrobbles_lastfm": {
+            "type": "long"
+          },
+          "tags_lastfm": {
+            "type": "text"
+          },
+          "tags_mb": {
+            "type": "text"
+          }
+        }
+      }
+    }
+  }

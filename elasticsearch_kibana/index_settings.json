@@ -1,0 +1,23 @@
+{
+    "known_artists": {
+      "settings": {
+        "index": {
+          "routing": {
+            "allocation": {
+              "include": {
+                "_tier_preference": "data_content"
+              }
+            }
+          },
+          "number_of_shards": "1",
+          "provided_name": "known_artists",
+          "creation_date": "1702911573820",
+          "number_of_replicas": "1",
+          "uuid": "G7ni20CIRmidn8pnY14Q2A",
+          "version": {
+            "created": "8500003"
+          }
+        }
+      }
+    }
+  }
